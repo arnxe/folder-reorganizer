@@ -27,4 +27,4 @@ Lightweight, zero-bloat Windows tool designed to clean up messy download directo
 
 ## Support Development
 
-If this tool saved you time, you can support future development or leave a tip on [Gumroad](https://arnexel.gumroad.com/l/folderorganizer) or [Itch]((https://arnxe2gmailcom.itch.io/mass-renamer)).
+If this tool saved you time, you can support future development or leave a tip on [Gumroad](https://arnexel.gumroad.com/l/folderorganizer) or [Itch](https://arnxe2gmailcom.itch.io/mass-renamer).
